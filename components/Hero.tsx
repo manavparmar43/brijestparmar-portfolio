@@ -63,7 +63,7 @@ export default function Hero() {
                 Hire Me
               </a>
               <a
-                href="https://drive.google.com/file/d/1zSf0RURhmMmVn3nFZ5bTCTYfR0Ztsgpe/view?usp=sharing"
+                href="https://drive.google.com/file/d/1KeP4f01vsUCtuB81mmC6aE_RLm-cDatJ/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-7 py-3 rounded-xl border border-violet-500/50 text-violet-300 font-semibold text-sm hover:bg-violet-500/10 hover:border-violet-400 transition-all duration-200 hover:-translate-y-0.5"
